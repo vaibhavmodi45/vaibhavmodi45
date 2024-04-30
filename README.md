@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Modi</h1>
-<h3 align="center">A passionate frontend developer & programmer from India</h3>
+<h3 align="center">A passionate developer & programmer from India</h3>
 
 - 🔭 I’m currently working on [Cinebite (AI based personalised entertainment chatbot))](yet to come)
 
