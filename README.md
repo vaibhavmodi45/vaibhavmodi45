@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Modi</h1>
-<h3 align="center">A passionate developer & programmer from India</h3>
+<h3 align="center">A Passionate Developer & Programmer from India</h3>
 
 - 🔭 Currently working to enhance my **Development** and **AI skills**
 
