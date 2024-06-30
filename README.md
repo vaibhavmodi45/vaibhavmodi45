@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Modi</h1>
 <h3 align="center">A passionate developer & programmer from India</h3>
 
-- 🔭 I’m currently working on [Cinebite (AI based personalised entertainment chatbot))](yet to come)
+- 🔭 Currently working to enhance my **Development** and **AI skills**
 
 - 🌱 I’m currently learning **Bachelor of Technology (CSE)**
 
