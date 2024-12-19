@@ -3,13 +3,13 @@
 
 - 🔭 Currently working to enhance my **Development** and **AI skills**
 
-- 🌱 I’m currently learning **Bachelor of Technology (CSE)**
+- 🌱 I’m currently doing **Computer Science Engineering**
 
 - 👯 I’m looking to collaborate on **similar projects where i can grow my deep learning and ai development skills**
 
 - 🤝 I’m looking for help with **the techies who have the knowledge of large language models and fine tunning of dataset's.**
 
-- 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TAILWIND,FIGMA,CANVA,RESPONSIVE WEB DESIGN**
+- 💬 Ask me about **HTML5,CSS3,JAVASCRIPT,BOOTSTRAP,TAILWIND,REACT,RESPONSIVE WEB DESIGN, PYTHON, API etc...**
 
 - 📫 How to reach me **modivaibhav817@gmail.com**
 
