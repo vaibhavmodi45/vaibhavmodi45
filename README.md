@@ -42,14 +42,7 @@ I'm delving deeper into artificial intelligence, focusing on large language mode
 <a href="https://instagram.com/vaibhav_modi_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_modi_45" height="30" width="40" /></a>
 </p>
 
----
-### Here is my Stats:
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmodi45&" alt="vaibhavmodi45" /></p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vaibhavmodi45&show_icons=true&locale=en" alt="vaibhavmodi45" /></p>
-
-
-### 💬 Let's Collaborate
 
 I'm eager to collaborate on projects that align with my interests and expertise. Whether it's contributing to open-source, developing innovative web applications, or exploring new AI challenges, feel free to reach out!
 
