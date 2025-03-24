@@ -51,18 +51,6 @@ I'm delving deeper into artificial intelligence, focusing on large language mode
 </div>
 
 
----
-
-
----
-
-
----
-
-
-
----
-
 ### 💬 Let's Collaborate
 
 I'm eager to collaborate on projects that align with my interests and expertise. Whether it's contributing to open-source, developing innovative web applications, or exploring new AI challenges, feel free to reach out!
