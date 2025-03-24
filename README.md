@@ -45,10 +45,8 @@ I'm delving deeper into artificial intelligence, focusing on large language mode
 ---
 ### Here is my Stats:
 
-<div>
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmodi45&" alt="vaibhavmodi45" /></p><br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vaibhavmodi45&show_icons=true&locale=en" alt="vaibhavmodi45" /></p> <hr>
-</div>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmodi45&" alt="vaibhavmodi45" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vaibhavmodi45&show_icons=true&locale=en" alt="vaibhavmodi45" /></p>
 
 
 ### 💬 Let's Collaborate
