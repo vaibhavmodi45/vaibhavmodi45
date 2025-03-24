@@ -1,29 +1,68 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Modi</h1>
-<h3 align="center">A Passionate Developer & Programmer from India</h3>
+# Hi, I'm Vaibhav Modi! 👋
 
-- 🔭 Currently working to enhance my **Development** and **AI skills**
+**`Student | Developer | Programmer | AI Enthusiast`**
 
-- 🌱 I’m currently doing **Computer Science Engineering**
+I am a Software Engineer and Tech Enthusiast passionate about building scalable web applications, AI-driven solutions, and innovative digital experiences. Currently pursuing B.Tech in Computer Science at Shri Vaishnav Vidyapeeth Vishwavidyalaya, I am dedicated to mastering AI, Full-Stack Development, and Cloud Technologies to make a meaningful impact.
 
-- 👯 I’m looking to collaborate on **similar projects where i can grow my deep learning and ai development skills**
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🤝 I’m looking for help with **the techies who have the knowledge of large language models and fine tunning of dataset's.**
+---
 
-- 💬 Ask me about **HTML5,CSS3,JAVASCRIPT,BOOTSTRAP,TAILWIND,REACT,RESPONSIVE WEB DESIGN, PYTHON, API etc...**
+### 🛠️ Technologies & Tools
 
-- 📫 How to reach me **modivaibhav817@gmail.com**
+ **Languages:**  
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+ **Frontend:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
+**Backend:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+**Data Science & AI:**  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+**Tools & Platforms:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+
+---
+
+### 🌱 Currently Learning
+
+I'm delving deeper into artificial intelligence, focusing on large language models and dataset fine-tuning. I'm also exploring cloud computing and scalable web architectures to enhance my development toolkit.
+
+---
+### Here is my Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavmodi45&show_icons=true&locale=en&layout=compact" alt="vaibhavmodi45"/></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmodi45&" alt="vaibhavmodi45" /></p><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavmodi45&show_icons=true&locale=en" alt="vaibhavmodi45" /></p>
+
+---
+
+### 🤝 Let's Connect
 <p align="left">
-<a href="https://codepen.io/vaibhavmodi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vaibhavmodi45" height="30" width="40" /></a>
-<a href="https://dev.to/vaibhavmodi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaibhavmodi45" height="30" width="40" /></a>
-<a href="https://twitter.com/@vaibhav35785090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vaibhav35785090" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-modi-59a775244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-modi-59a775244" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22455642/vaibhav-modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22455642/vaibhav-modi" height="30" width="40" /></a>
-<a href="https://kaggle.com/vaibhavmodi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaibhavmodi45" height="30" width="40" /></a>
-<a href="https://fb.com/vaibhav.modi.948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaibhav.modi.948" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhav_modi_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_modi_45" height="30" width="40" /></a>
+  <a href="mailto:modivaibhav817@gmail.com">
+    <img src="https://img.shields.io/badge/Email-modivaibhav817@gmail.com-007BFF?style=flat&logo=gmail&logoColor=white" alt="Email"> <br>
+    <a href="https://www.linkedin.com/in/vaibhav-modi-59a775244" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav_Modi-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"><a href="https://twitter.com/vaibhav35785090" target="_blank"><br>
+    <img src="https://img.shields.io/badge/Twitter-@vaibhav35785090-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"><a href="https://codepen.io/vaibhavmodi45" target="_blank"><br>
+    <img src="https://img.shields.io/badge/CodePen-vaibhavmodi45-000000?style=flat&logo=codepen&logoColor=white" alt="CodePen"><a href="https://dev.to/vaibhavmodi45" target="_blank"><br>
+    <img src="https://img.shields.io/badge/Dev.to-vaibhavmodi45-0A0A0F?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"><a href="https://stackoverflow.com/users/22455642/vaibhav-modi" target="_blank"><br>
+    <img src="https://img.shields.io/badge/Stack_Overflow-Vaibhav_Modi-F48024?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow"><a href="https://kaggle.com/vaibhavmodi45" target="_blank"><br>
+    <img src="https://img.shields.io/badge/Kaggle-vaibhavmodi45-000000?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"><a href="https://fb.com/vaibhav.modi.948" target="_blank"><br>
+    <img src="https://img.shields.io/badge/Facebook-vaibhav.modi.948-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"><a href="https://instagram.com/vaibhav_modi_45" target="_blank"><br>
+    <img src="https://img.shields.io/badge/Instagram-vaibhavmodi45-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 💬 Let's Collaborate
+
+I'm eager to collaborate on projects that align with my interests and expertise. Whether it's contributing to open-source, developing innovative web applications, or exploring new AI challenges, feel free to reach out!
+
+---
+
+*“Striving for continuous improvement and making a meaningful impact through technology.”*
