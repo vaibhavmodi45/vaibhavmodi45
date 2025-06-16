@@ -49,3 +49,9 @@ I'm eager to collaborate on projects that align with my interests and expertise.
 ---
 
 *“Striving for continuous improvement and making a meaningful impact through technology.”*
+
+---
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vaibhavmodi45"/></a>
+</p>
